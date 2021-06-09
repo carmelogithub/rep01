@@ -1,0 +1,21 @@
+div{
+   /* background-color: green;*/
+   display:inline-block;
+   /*float:left;*/
+   width: 80px;
+   height: 45px;
+   margin-left:10px;
+}
+
+#caja1{
+    background-color: rgba(34, 150, 34,0.8);
+}
+#caja2{
+    background-color: rgba(34, 150, 34,0.6);
+}
+#caja3{
+    background-color: rgba(34, 150, 34,0.4);
+}
+#caja4{
+    background-color: rgba(34, 150, 34,0.2);
+}
